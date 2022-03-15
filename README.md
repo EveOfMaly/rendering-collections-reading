@@ -1,4 +1,4 @@
-# Rendering Collections
+# Rendering Collections (Complete)
 
 ## Objectives
 
